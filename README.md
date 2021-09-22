@@ -23,8 +23,8 @@ This project was developed with the following technologies:
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/kevinportella/ignite-desafio-03
-$ cd ignite-desafio-03
+$ git clone https://github.com/kevinportella/ignite-desafio-04
+$ cd ignite-desafio-04
 ```
 
 To start it, follow the steps below: 
@@ -33,7 +33,7 @@ To start it, follow the steps below:
 $ yarn
 
 # Start the project 
-$ yarn dev
+$ yarn start
 
 # Start server 
 $ yarn server
